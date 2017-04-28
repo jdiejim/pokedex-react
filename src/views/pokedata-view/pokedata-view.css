@@ -1,0 +1,30 @@
+.poke-data {
+  background-color: #232323;
+  border-radius: 5px;
+}
+
+table {
+  width: 100%;
+  margin: 10px 0 0;
+  border-collapse: collapse;
+  font-family: 'Rationale', sans-serif;
+}
+
+tr {
+}
+
+th {
+  padding: 10px 10px 0;
+  font-size: 10px;
+  text-transform: uppercase;
+}
+
+th,
+td {
+  color: #FFF;
+  text-align: center;
+}
+
+td {
+  padding: 5px 10px 10px
+}
